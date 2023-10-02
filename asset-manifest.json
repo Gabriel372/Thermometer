@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Thermometer/static/css/main.fd2c2f7e.css",
+    "main.js": "/Thermometer/static/js/main.2b20168f.js",
+    "static/js/787.c0b8fa52.chunk.js": "/Thermometer/static/js/787.c0b8fa52.chunk.js",
+    "static/media/bgCloud.jpg": "/Thermometer/static/media/bgCloud.9b2ebda8bbf4c42b70ef.jpg",
+    "static/media/sunny.png": "/Thermometer/static/media/sunny.6e97e56c6984601f500e.png",
+    "static/media/scattered.png": "/Thermometer/static/media/scattered.45a95c5a033df7526067.png",
+    "static/media/lightRain.png": "/Thermometer/static/media/lightRain.f989d721863d0366086d.png",
+    "static/media/clouds.png": "/Thermometer/static/media/clouds.0a984b5a358a21cbb51e.png",
+    "static/media/rain.png": "/Thermometer/static/media/rain.0ffdf3b8899ac3448d43.png",
+    "static/media/overcastClouds.png": "/Thermometer/static/media/overcastClouds.4fc293b0117cb0c712bc.png",
+    "static/media/brokenClouds.png": "/Thermometer/static/media/brokenClouds.9c6dbe490f7fda28d422.png",
+    "index.html": "/Thermometer/index.html",
+    "main.fd2c2f7e.css.map": "/Thermometer/static/css/main.fd2c2f7e.css.map",
+    "main.2b20168f.js.map": "/Thermometer/static/js/main.2b20168f.js.map",
+    "787.c0b8fa52.chunk.js.map": "/Thermometer/static/js/787.c0b8fa52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2c2f7e.css",
+    "static/js/main.2b20168f.js"
+  ]
+}
