@@ -1,0 +1,21 @@
+.container{
+background-color: rgb(56, 141, 238);
+color: white;
+display: flex;
+justify-content: center;
+}
+.content{
+display: flex;
+justify-content: space-between;
+min-width: 450px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.icon{
+margin-left: 10px;
+font-size: 20px;
+}
+a{
+color: white;
+}
+
