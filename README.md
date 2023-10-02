@@ -1,4 +1,5 @@
 link desse projeto :  https://gabriel372.github.io/Thermometer/
+projeto que informa previsao do tempo nas cidades,temperatura e hora 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
