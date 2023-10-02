@@ -7,7 +7,7 @@ justify-content: center;
 .content{
 display: flex;
 justify-content: space-between;
-min-width: 450px;
+min-width: 430px;
 padding-top: 20px;
 padding-bottom: 20px;
 }
