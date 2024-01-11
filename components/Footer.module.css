@@ -1,0 +1,35 @@
+.container{
+background-color: rgb(56, 141, 238);
+color: white;
+display: flex;
+justify-content: center;
+}
+.content{
+display: flex;
+justify-content: space-between;
+width: 430px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.icon{
+margin-left: 13px;
+font-size: 25px;
+}
+a{
+color: white;
+}
+.divContact{
+  margin-top: 0px;
+}
+h1{
+  font-size: 25px;
+}
+@media screen and (max-width: 500px) {
+    .content {
+      flex-direction: column;
+      max-width: 350px;
+    }
+    .divContact{
+      margin-top: 7px;
+    }
+  }
